@@ -1,0 +1,20 @@
+# Compiled Java class files
+*.class
+
+# Packages
+*.jar
+*.war
+*.ear
+
+# IDE / Editor (VS Code)
+.vscode/
+*.log
+
+# Build / Output directories
+bin/
+build/
+out/
+
+# OS metadata
+.DS_Store
+Thumbs.db
